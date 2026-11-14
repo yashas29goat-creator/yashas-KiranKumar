@@ -1,0 +1,7 @@
+{
+  "name": "Champions Arena: Mobile Kickoff",
+  "description": "Next-Gen 3D Football mobile match engine, FC mobile ergonomic controls, live commentary, ultimate team squad builder, draft arena, and player forge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
